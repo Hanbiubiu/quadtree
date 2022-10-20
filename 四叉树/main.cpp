@@ -200,7 +200,7 @@ int judgeByMeasure(vector<point> &list,treenode &deletenode){
     return flag;
     
 }
-//这是测试上传代码的注释 
+
 int main(){
     treenode t=(quadtree *)malloc(sizeof(quadtree));
     vector<point> list;
